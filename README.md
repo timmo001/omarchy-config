@@ -1,6 +1,6 @@
 # Omarchy Configuration
 
-Setup for my Omarchy setups.
+My full Omarchy configuration setup.
 
 ## Other Repositories
 
